@@ -1,4 +1,3 @@
-alert("file connected");
 const api_url = "https://api.covid19api.com/summary";
 
 let getAPIData = (url) => {
